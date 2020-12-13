@@ -33,3 +33,9 @@
 - Angular Modules have a Root Angular Module that contains Components.
 
 - Angular can have any number of modules, but contains at least one root module.
+
+### Code-A-Long Starting files
+
+[Code a long repo](https://github.com/DeborahK/Angular-GettingStarted)
+
+_(Select the `APM Start` Directory)_
