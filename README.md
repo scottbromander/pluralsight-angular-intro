@@ -23,3 +23,13 @@ What a New Angular?
 - Simplified API - fewer directives, simpler bindings, lower concept count
 
 - Enhances Productivity - Improve our day to day workflow
+
+Anatomy of an Angular Application
+
+`Application` = `Services(` `Component` + `Component` + (n \* `Component`) `)`
+
+`Component` = `Template` + `Class(Properties + Methods)` + `Metadata`
+
+- Angular Modules have a Root Angular Module that contains Components.
+
+- Angular can have any number of modules, but contains at least one root module.
