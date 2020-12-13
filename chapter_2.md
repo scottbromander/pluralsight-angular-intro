@@ -1,4 +1,4 @@
-# CHapter 2 Notes
+# Chapter 2 Notes
 
 ## Introduction Notes
 
