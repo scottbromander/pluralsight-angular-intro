@@ -2,7 +2,7 @@
 
 ## Introduction Notes
 
-Angular is:
+### Angular is:
 
 - A JavaScript Framework for building client side applications using HTML, CSS, and TypeScript
 
@@ -14,7 +14,7 @@ Angular is:
 
 - Built in Back End Integration
 
-What a New Angular?
+### Why a New Angular?
 
 - Built for Speed - Fast change detection, faster initial speeds, improved rendering times
 
@@ -24,7 +24,7 @@ What a New Angular?
 
 - Enhances Productivity - Improve our day to day workflow
 
-Anatomy of an Angular Application
+### Anatomy of an Angular Application
 
 `Application` = `Services(` `Component` + `Component` + (n \* `Component`) `)`
 
