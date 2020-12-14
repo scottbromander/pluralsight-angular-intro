@@ -23,3 +23,39 @@
 ## Visual Studio Code
 
 - Talks about what VSC is, and the basics of history on it.
+
+## NPM
+
+- She said it stands for 'Node Package Manager' (giggle)
+
+- Command Line Utility
+
+- Online Registry of Packages
+
+- `npm install abc` <- standard format
+
+- Package manager for JavaScript applications
+
+- Installs Libraries, Packages, and Applications
+
+- Can execute scripts (No examples here)
+
+- Installed via Node. They installed via website (NOOOO! Recommend: `nvm`)
+
+- `npm -v` - Checks version
+
+## Package.json
+
+- Need Angular, framework and libraries
+
+- Angular CLI, command line intergace for Angular
+
+- TypeScript - Programming Language
+
+- Define Package.json
+
+- `dependencies` - Packages required for development and deployment
+
+- `devDependancies` - Packages only required for development
+
+- Did not really go into knowing when do to what
