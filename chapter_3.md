@@ -59,3 +59,7 @@
 - `devDependancies` - Packages only required for development
 
 - Did not really go into knowing when do to what
+
+## Setting up the Angular Application
+
+- Starter files: https://github.com/DeborahK/Angular-GettingStarted
