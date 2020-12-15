@@ -63,3 +63,7 @@
 ## Setting up the Angular Application
 
 - Starter files: https://github.com/DeborahK/Angular-GettingStarted
+
+- Talks about installing all of the packages using `npm i`, since the dependencies already exist in the provided `package.json`.
+
+- Talks about not running `npm audit fix`? Did not really provide a resolution. Maybe later in the course?
