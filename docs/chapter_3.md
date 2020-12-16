@@ -67,3 +67,25 @@
 - Talks about installing all of the packages using `npm i`, since the dependencies already exist in the provided `package.json`.
 
 - Talks about not running `npm audit fix`? Did not really provide a resolution. Maybe later in the course?
+
+## Running the Angular Application
+
+- Talks about `npm` scripts.
+
+- Touches on `npm serve`. `-o` is the option in the CLI to open the served application in the browser.
+
+## Modules
+
+- ES2015 adds modules
+
+- Angular leverages ES2015 modules
+
+- Angular also has `Angular Modules`, which is different than ES2015 modules.
+
+- ES2015 modules - `export class Products`, this file then becomes a module, because of the exports. And can be imported into other files.
+
+- Importing also classifies a file as a module.
+
+- Angular Modules, Help organize the application into coheasive blocks of logical groupings.
+
+- `Feature Angular Modules` can contain several components. Promote application boundaries.

@@ -1,7 +1,7 @@
 # Pluralsight - Angular: Getting Started
 
-- [Chapter 2 Notes](./chapter_2.md)
-- [Chapter 3 Notes](./chapter_3.md)
+- [Chapter 2 Notes](./docs/chapter_2.md)
+- [Chapter 3 Notes](./docs/chapter_3.md)
 
 ### Starter File README
 
